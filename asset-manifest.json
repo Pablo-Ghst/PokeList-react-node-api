@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PokeList-react-node-api/static/css/main.207b4693.css",
+    "main.js": "/PokeList-react-node-api/static/js/main.2e7153af.js",
+    "index.html": "/PokeList-react-node-api/index.html",
+    "main.207b4693.css.map": "/PokeList-react-node-api/static/css/main.207b4693.css.map",
+    "main.2e7153af.js.map": "/PokeList-react-node-api/static/js/main.2e7153af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.207b4693.css",
+    "static/js/main.2e7153af.js"
+  ]
+}
